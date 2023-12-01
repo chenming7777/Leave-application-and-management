@@ -1,0 +1,10 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x     ( 6/2023) monthly leave report for each department    x
+=============================================================
+|Department     |                         |Leave numbers    |
+=============================================================
+|Academic       |                         |1                |
+|Admin          |                         |0                |
+|Management     |                         |1                |
+|Technical      |                         |3                |
+=============================================================

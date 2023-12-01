@@ -1,0 +1,12 @@
+|S161778       |24/8/2023     |approved      |medical       |
+|S161777       |22/5/2023     |rejected      |medical       |
+|S161778       |23/6/2023     |pending       |medical       |
+|S161777       |15/6/2023     |rejected      |medical       |
+|S161777       |23/6/2023     |approved      |compassionate |
+|S161778       |24/5/2023     |pending       |medical       |
+|S161779       |15/5/2023     |pending       |medical       |
+|S111111       |12/11/2023    |rejected      |medical       |
+|S169900       |12/12/2023    |approved      |annual        |
+|S169900       |11/11/2023    |rejected      |annual        |
+|S161777       |24/6/2023     |pending       |compassionate |
+|S161779       |23/6/2023     |rejected      |medical       |
